@@ -52,7 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Appointment.cs" />
-    <Compile Include="Customer\Customer.cs" />
+    <Compile Include="Customers\Customer.cs" />
     <Compile Include="Database\TblCustomer\CustomerDB.cs" />
     <Compile Include="Database\TblEmployee\EmployeeDB.cs" />
     <Compile Include="Employees\ApprenticeCuter.cs" />

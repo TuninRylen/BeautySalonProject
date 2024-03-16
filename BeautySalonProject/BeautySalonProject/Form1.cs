@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BeautySalonProject.Customers;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,7 +20,16 @@ namespace BeautySalonProject
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            Customer c = new Customer()
+            {
+                Address = "Kars",
+                Name = "Name",
+                Surname = "Surname",
+                PhoneNumber = "1234567890"
+            };
 
+            CustomerDB.DeleteCustomer(1);
+            CustomerDB.AddCustomer(c);
         }
     }
 }
