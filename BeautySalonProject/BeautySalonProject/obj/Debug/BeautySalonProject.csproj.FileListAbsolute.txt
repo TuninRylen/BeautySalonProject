@@ -1,0 +1,13 @@
+C:\Users\ugrst\OneDrive\Masaüstü\Yeni klasör (5)\BeautySalonProject\BeautySalonProject\obj\Debug\BeautySalonProject.csproj.AssemblyReference.cache
+C:\Users\ugrst\OneDrive\Masaüstü\Yeni klasör (5)\BeautySalonProject\BeautySalonProject\obj\Debug\BeautySalonProject.Form1.resources
+C:\Users\ugrst\OneDrive\Masaüstü\Yeni klasör (5)\BeautySalonProject\BeautySalonProject\obj\Debug\BeautySalonProject.Properties.Resources.resources
+C:\Users\ugrst\OneDrive\Masaüstü\Yeni klasör (5)\BeautySalonProject\BeautySalonProject\obj\Debug\BeautySalonProject.csproj.GenerateResource.cache
+C:\Users\ugrst\OneDrive\Masaüstü\Yeni klasör (5)\BeautySalonProject\BeautySalonProject\obj\Debug\BeautySalonProject.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\OneDrive\Masaüstü\Yeni klasör (5)\BeautySalonProject\BeautySalonProject\bin\Debug\BeautySalonProject.exe.config
+C:\Users\ugrst\OneDrive\Masaüstü\Yeni klasör (5)\BeautySalonProject\BeautySalonProject\bin\Debug\BeautySalonProject.exe
+C:\Users\ugrst\OneDrive\Masaüstü\Yeni klasör (5)\BeautySalonProject\BeautySalonProject\bin\Debug\BeautySalonProject.pdb
+C:\Users\ugrst\OneDrive\Masaüstü\Yeni klasör (5)\BeautySalonProject\BeautySalonProject\obj\Debug\BeautySalonProject.exe
+C:\Users\ugrst\OneDrive\Masaüstü\Yeni klasör (5)\BeautySalonProject\BeautySalonProject\obj\Debug\BeautySalonProject.pdb
+C:\Users\ugrst\OneDrive\Masaüstü\Yeni klasör (5)\BeautySalonProject\BeautySalonProject\bin\Debug\ReaLTaiizor.dll
+C:\Users\ugrst\OneDrive\Masaüstü\Yeni klasör (5)\BeautySalonProject\BeautySalonProject\bin\Debug\ReaLTaiizor.xml
+C:\Users\ugrst\OneDrive\Masaüstü\Yeni klasör (5)\BeautySalonProject\BeautySalonProject\obj\Debug\BeautySalonProject.csproj.CopyComplete
